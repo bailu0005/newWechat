@@ -1,4 +1,5 @@
 <!--pages/home/home.wxml-->
+222
 <w-swiper list="{{banners}}"/>
 <w-recommend recommends="{{recommends}}"></w-recommend> 
 <w-popular></w-popular>
